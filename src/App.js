@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to github actions.
+          Edit <code>src/App.js</code> ChatGPT pipeline code running in github actions.
         </p>
         <a
           className="App-link"
